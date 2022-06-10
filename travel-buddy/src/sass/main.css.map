@@ -1,0 +1,14 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "main.scss",
+        "abstracts/_vars.scss",
+        "comps/_header.scss",
+        "comps/_list.scss",
+        "comps/_map.scss",
+        "comps/_places.scss"
+    ],
+    "names": [],
+    "file": "main.css"
+}
